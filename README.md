@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=JiHyun%20Lee&fontSize=90)
+
 ### Hi there 👋
 
 <!--
