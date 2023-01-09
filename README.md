@@ -1,17 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JiHyun%20Lee&fontSize=70)
 
 
+<!-- Tech that I've used at least once -->
 
+<!-- ### Hi 👋 -->
 
-### Hi 👋
+<h3 align='center'>🛠 Tech Stack 🛠 </h3>
+<h4 align='center'>✨  Platforms & Languages ✨</h4>
 
+<p align='center'>
 
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
+<!-- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> -->
 
-
-### 🛠 Tech Stack 🛠
-✨  Platforms & Languages ✨
-
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+</p>
 
 
 
